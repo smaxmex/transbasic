@@ -7,7 +7,7 @@
 > *El puente entre las experiencias de BASIC con comandos en lengua materna y la potencia moderna de BBC BASIC for SDL.*
 
 ### 🧐 ¿Qué es tb - Trans BASIC?
-**tb - Trans BASIC** es un motor ligero, ágil y flexible que te permite programar en BASIC usando las palabras de tu propio idioma. La carpeta del proyecto en GitHub se llama simplemente `tb`.
+**tb - Trans BASIC** es un motor ligero, ágil y flexible que te permite programar en BASIC usando las palabras de tu propio idioma.
 
 ### 📜 Un poco de historia
 Programar en la lengua materna no es una idea nueva. Grandes clásicos de la informática como **ALGOL** (que ya en sus especificaciones oficiales, como ALGOL 68, permitía traducir sus palabras clave a otros idiomas) o lenguajes didácticos como el francés *LSE* y el más moderno *Linotte* exploraron este camino. Sin embargo, la gran mayoría de los proyectos del pasado fueron **dialectos directos de BASIC** o derivados suyos.
@@ -30,7 +30,7 @@ El proyecto evolucionó a partir de **BAS.I.LI.CO** (https://github.com/smaxmex/
 El proyecto está vinculado al curso **F.A.C.I.L.E.** (https://corsofacile.blogspot.com). Cabe mencionar que, por el momento, el blog del curso no contiene material específico sobre esta nueva versión de BASILICO en Trans BASIC.
 
 ### 🛠️ Guía rápida de uso
-1. **Descargar:** Descarga el ZIP desde GitHub y entra en la carpeta `tb`. Dentro de la misma encontrarás también los archivos ejecutables `bbcsdl` y `bbcbasic`, que son respectivamente los ejecutables de BBC BASIC for SDL y de la modalidad consola.
+1. **Descargar:** Descarga el ZIP desde GitHub y entra en la carpeta `transbasic-linux`. Dentro de la misma encontrarás también los archivos ejecutables `bbcsdl` y `bbcbasic`, que son respectivamente los ejecutables de BBC BASIC for SDL y de la modalidad consola.
 2. **Escribir código:** Usa tu editor de texto preferido y guarda el archivo `.bas` (ejemplo: `mi_programa.bas`). Se recomienda usar Geany con el archivo de configuración `filetypes.Azafran.conf`.
 3. **Ejecutar desde la terminal:**
    * **Español (Azafran):** `./tb "mi_programa.bas" azafran.txt`
@@ -66,7 +66,7 @@ Le projet est né de **BAS.I.LI.CO** (https://github.com/smaxmex/basilico). Init
 Il est lié au cours **F.A.C.I.L.E.** (https://corsofacile.blogspot.com). À l'heure actuelle, le blog du cours ne contient pas encore de matériel spécifique sur cette nouvelle version de BASILICO via Trans BASIC.
 
 ### 🛠️ Guide pratique d'utilisation
-1. **Télécharger :** Téléchargez le ZIP et ouvrez le dossier `tb`. Vous y trouverez également les fichiers exécutables `bbcsdl` et `bbcbasic`, qui correspondent respectivement aux exécutables de BBC BASIC for SDL et du mode console.
+1. **Télécharger :** Téléchargez le ZIP et ouvrez le dossier `transbasic-linux`. Vous y trouverez également les fichiers exécutables `bbcsdl` et `bbcbasic`, qui correspondent respectivement aux exécutables de BBC BASIC for SDL et du mode console.
 2. **Écrire le code :** Utilisez votre éditeur préféré (ex. Geany avec `filetypes.Persil.conf`). Enregistrez au format `.bas`.
 3. **Exécuter depuis le terminal :**
    * **Français (Persil) :** `./tb "mon_programme.bas" persil.txt -c`
@@ -102,7 +102,7 @@ Il progetto deriva da **BAS.I.LI.CO** (https://github.com/smaxmex/basilico). Ini
 Il progetto è legato al corso **F.A.C.I.L.E.** (https://corsofacile.blogspot.com). Al momento, il blog del corso non contiene ancora materiale specifico su questa nuova versione di BASILICO basata su Trans BASIC.
 
 ### 🛠️ Guida rapida all'uso
-1. **Scaricare:** Estrai il file ZIP ed entra nella cartella `tb`. All'interno troverai anche i file eseguibili `bbcsdl` e `bbcbasic`, che sono rispettivamente gli eseguibili di BBC BASIC for SDL e della modalità console.
+1. **Scaricare:** Estrai il file ZIP ed entra nella cartella `transbasic-linux`. All'interno troverai anche i file eseguibili `bbcsdl` e `bbcbasic`, che sono rispettivamente gli eseguibili di BBC BASIC for SDL e della modalità console.
 2. **Scrivere il codice:** Usa il tuo editor di testo preferito (si consiglia Geany con il file di configurazione `filetypes.BASILICO.conf`). Salva il file con estensione `.bas`.
 3. **Eseguire da terminale:**
    * **Italiano (predefinito):** `./tb "mio_programma.bas"`
@@ -138,7 +138,7 @@ The project originated from **BAS.I.LI.CO** (https://github.com/smaxmex/basilico
 It is associated with the **F.A.C.I.L.E.** programming course (https://corsofacile.blogspot.com). Currently, the course blog does not yet contain specific material on this new Trans BASIC version of BASILICO.
 
 ### 🛠️ Quick Start Guide
-1. **Download:** Extract the ZIP file and open the `tb` folder. Inside, you will also find the executable files `bbcsdl` and `bbcbasic`, which are respectively the executables for BBC BASIC for SDL and console mode.
+1. **Download:** Extract the ZIP file and open the `transbasic-linux` folder. Inside, you will also find the executable files `bbcsdl` and `bbcbasic`, which are respectively the executables for BBC BASIC for SDL and console mode.
 2. **Write Code:** Use your preferred text editor (Geany with the provided config files is recommended). Save the file with a `.bas` extension.
 3. **Run from the Terminal:**
    * **Italian / Default:** `./tb "my_program.bas"`
