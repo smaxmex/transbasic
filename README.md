@@ -1,3 +1,6 @@
+![githubstrip](tb.png)
+
+
 # 🚀 tb - Trans BASIC
 
 ---
