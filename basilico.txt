@@ -77,7 +77,7 @@ PTR#,Ptr#
 QUIT,Smetti
 READ,Leggi
 REM,Nota
-REPEAT,Repeti
+REPEAT,Ripeti
 REPORT,Rapporto
 RESTORE,Rileggi
 RETURN,Torna
