@@ -1,6 +1,5 @@
 ![githubstrip](tb.png)
 
-
 # 🚀 tb - Trans BASIC
 
 ---
@@ -33,10 +32,12 @@ El proyecto evolucionó a partir de **BAS.I.LI.CO** (https://github.com/smaxmex/
 El proyecto está vinculado al curso **F.A.C.I.L.E.** (https://corsofacile.blogspot.com). Cabe mencionar que, por el momento, el blog del curso no contiene material específico sobre esta nueva versión de BASILICO en Trans BASIC.
 
 ### 🛠️ Guía rápida de uso
-1. **Descargar:** Descarga el ZIP desde GitHub y entra en la carpeta `transbasic-linux`. Dentro de la misma encontrarás también los archivos ejecutables `bbcsdl` y `bbcbasic`, que son respectivamente los ejecutables de BBC BASIC for SDL y de la modalidad consola.
+1. **Descargar:** Descarga el ZIP desde GitHub y entra en la carpeta relativa a tu sistema operativo (llamada simplemente `windows`, `linux` o `macos`). Dentro de la misma encontrarás también los archivos ejecutables `bbcsdl` y `bbcbasic`, que son respectivamente los ejecutables de BBC BASIC for SDL y de la modalidad consola.
 2. **Escribir código:** Usa tu editor de texto preferido y guarda el archivo `.bas` (ejemplo: `mi_programa.bas`). Se recomienda usar Geany con el archivo de configuración `filetypes.Azafran.conf`.
-3. **Ejecutar desde la terminal:**
-   * **Español (Azafran):** `./tb "mi_programa.bas" azafran.txt`
+3. **Ejecutar desde la línea de comandos:**
+   * **Para Linux:** `./tb "mi_programa.bas" azafran.txt`
+   * **Para Windows:** `tb.exe "mi_programa.bas" azafran.txt`
+   * **Para macOS:** `./tb "mi_programa.bas" azafran.txt`
 
 ### ⚖️ Licencia
 **tb - Trans BASIC** se distribuye bajo la **Licencia zlib**, exactamente igual que *BBC BASIC for SDL*. 
@@ -69,10 +70,12 @@ Le projet est né de **BAS.I.LI.CO** (https://github.com/smaxmex/basilico). Init
 Il est lié au cours **F.A.C.I.L.E.** (https://corsofacile.blogspot.com). À l'heure actuelle, le blog du cours ne contient pas encore de matériel spécifique sur cette nouvelle version de BASILICO via Trans BASIC.
 
 ### 🛠️ Guide pratique d'utilisation
-1. **Télécharger :** Téléchargez le ZIP et ouvrez le dossier `transbasic-linux`. Vous y trouverez également les fichiers exécutables `bbcsdl` et `bbcbasic`, qui correspondent respectivement aux exécutables de BBC BASIC for SDL et du mode console.
+1. **Télécharger :** Téléchargez le ZIP et ouvrez le dossier correspondant à votre système d'exploitation (simplement nommé `windows`, `linux` ou `macos`). Vous y trouverez également les fichiers exécutables `bbcsdl` et `bbcbasic`, qui correspondent respectivement aux exécutables de BBC BASIC for SDL et du mode console.
 2. **Écrire le code :** Utilisez votre éditeur préféré (ex. Geany avec `filetypes.Persil.conf`). Enregistrez au format `.bas`.
-3. **Exécuter depuis le terminal :**
-   * **Français (Persil) :** `./tb "mon_programme.bas" persil.txt -c`
+3. **Exécuter depuis la ligne de commande :**
+   * **Pour Linux :** `./tb "mon_programme.bas" persil.txt -c`
+   * **Pour Windows :** `tb.exe "mon_programme.bas" persil.txt -c`
+   * **Pour macOS :** `./tb "mon_programme.bas" persil.txt -c`
 
 ### ⚖️ Licence
 **tb - Trans BASIC** est distribué sous la **Licence zlib**, tout comme *BBC BASIC for SDL*.
@@ -105,10 +108,12 @@ Il progetto deriva da **BAS.I.LI.CO** (https://github.com/smaxmex/basilico). Ini
 Il progetto è legato al corso **F.A.C.I.L.E.** (https://corsofacile.blogspot.com). Al momento, il blog del corso non contiene ancora materiale specifico su questa nuova versione di BASILICO basata su Trans BASIC.
 
 ### 🛠️ Guida rapida all'uso
-1. **Scaricare:** Estrai il file ZIP ed entra nella cartella `transbasic-linux`. All'interno troverai anche i file eseguibili `bbcsdl` e `bbcbasic`, che sono rispettivamente gli eseguibili di BBC BASIC for SDL e della modalità console.
+1. **Scaricare:** Estrai il file ZIP ed entra nella cartella relativa al tuo sistema operativo (chiamata semplicemente `windows`, `linux` o `macos`). All'interno troverai anche i file eseguibili `bbcsdl` e `bbcbasic`, che sono rispettivamente gli eseguibili di BBC BASIC for SDL e della modalità console.
 2. **Scrivere il codice:** Usa il tuo editor di testo preferito (si consiglia Geany con il file di configurazione `filetypes.BASILICO.conf`). Salva il file con estensione `.bas`.
-3. **Eseguire da terminale:**
-   * **Italiano (predefinito):** `./tb "mio_programma.bas"`
+3. **Eseguire da riga di comando:**
+   * **Per Linux:** `./tb "mio_programma.bas"`
+   * **Per Windows:** `tb.exe "mio_programma.bas"`
+   * **Per macOS:** `./tb "mio_programma.bas"`
 
 ### ⚖️ Licenza
 **tb - Trans BASIC** è rilasciato sotto **Licenza zlib**, esattamente come *BBC BASIC for SDL*.
@@ -141,11 +146,13 @@ The project originated from **BAS.I.LI.CO** (https://github.com/smaxmex/basilico
 It is associated with the **F.A.C.I.L.E.** programming course (https://corsofacile.blogspot.com). Currently, the course blog does not yet contain specific material on this new Trans BASIC version of BASILICO.
 
 ### 🛠️ Quick Start Guide
-1. **Download:** Extract the ZIP file and open the `transbasic-linux` folder. Inside, you will also find the executable files `bbcsdl` and `bbcbasic`, which are respectively the executables for BBC BASIC for SDL and console mode.
+1. **Download:** Extract the ZIP file and open the folder corresponding to your operating system (simply named `windows`, `linux`, or `macos`). Inside, you will also find the executable files `bbcsdl` and `bbcbasic`, which are respectively the executables for BBC BASIC for SDL and console mode.
 2. **Write Code:** Use your preferred text editor (Geany with the provided config files is recommended). Save the file with a `.bas` extension.
-3. **Run from the Terminal:**
-   * **Italian / Default:** `./tb "my_program.bas"`
-   * *(See other language sections for Spanish/French commands).*
+3. **Run from the Command Line:**
+   * **For Linux:** `./tb "my_program.bas"`
+   * **For Windows:** `tb.exe "my_program.bas"`
+   * **For macOS:** `./tb "my_program.bas"`
+   *(See other language sections for Spanish/French commands).*
 
 ### ⚖️ License
 **tb - Trans BASIC** is released under the **zlib License**, exactly like *BBC BASIC for SDL*.
