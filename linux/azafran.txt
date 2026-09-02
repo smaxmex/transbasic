@@ -104,3 +104,4 @@ VAL,Val
 VDU,Pantalla
 WHILE,Mientras
 WIDTH,Ancho
+XOR, Oex
