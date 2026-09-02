@@ -56,6 +56,7 @@ LOG,Log
 LOMEM,memba
 MID$,Mez$
 MOD,Mod
+MODE,Modo
 MOVE,Muovi
 NEW,Nuovo
 NEXT,Seguente
