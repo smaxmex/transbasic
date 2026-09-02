@@ -104,4 +104,4 @@ VAL,Val
 VDU,Ecran
 WHILE,Tantque
 WIDTH,Largeur
-XOR, OuexOEX
+XOR, Ouex
