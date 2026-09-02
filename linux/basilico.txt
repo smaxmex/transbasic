@@ -103,5 +103,5 @@ USR,Utn
 VAL,Val
 VDU,Schermo
 WHILE,Mentre
-XOR, Oesc
 WIDTH,Misure
+XOR, Oesc
