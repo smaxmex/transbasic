@@ -104,4 +104,4 @@ VAL,Val
 VDU,Schermo
 WHILE,Mentre
 WIDTH,Misure
-XOR, Oesc
+XOR, Oes
