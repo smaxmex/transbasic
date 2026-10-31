@@ -5,8 +5,8 @@ AND,Y
 ASC,Asc
 ASN,Asn
 ATN,Atn
-BGET#,Tomab#
-BPUT#,Ponb#
+BGET#,Toma-c#
+BPUT#,Pon-c#
 CALL,Llama
 CHAIN,Enlaza
 CHR$,Car$
