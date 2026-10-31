@@ -99,7 +99,7 @@ TIME,Tempo
 TO,A
 TRUE,Vero
 UNTIL,Fino-a
-USR,Utn
+USR,Ut
 VAL,Val
 VDU,Uv
 WHILE,Mentre
