@@ -84,7 +84,7 @@ RESTORE,Restaura
 RETURN,Regresa
 RIGHT$,Derecha$
 RND,Alea
-RUN,Inicia
+RUN,Ejecuta
 SAVE,Guarda
 SGN,Sgn
 SIN,Sen
