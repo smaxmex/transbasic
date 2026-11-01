@@ -84,7 +84,7 @@ RESTORE,De
 RETURN,Regresa
 RIGHT$,Derecha$
 RND,Azar
-RUN,Inicia
+RUN,Ejecuta
 SAVE,Guarda
 SGN,Sgn
 SIN,Sen
